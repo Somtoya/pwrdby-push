@@ -1,0 +1,56 @@
+body{
+     color: grey;
+}
+.sidebar{
+     background-color: #5b58a4;
+     color: grey;
+     height: 100vh;
+}
+
+h4{
+     margin-top: 2em;
+}
+.sidebar a{
+     color: white;
+}
+
+#logo{
+     margin-left: -1.5em;
+     margin-top: 2em;
+}
+
+.panel{
+     background-color:  #453f8e;
+     border: none;
+}
+
+.usr-menu{
+     text-align: right;
+}
+
+.dropdown a{
+     color: grey;
+}
+
+.img-circle {
+    border-radius: 1000%;
+    width: 65px;
+    height: 60px;
+    margin-right: 1em;
+}
+
+#sidebar-caret{
+    justify-content: flex-end;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #453f8e;
+    border: none;
+    /* border: 1px solid #ddd; */
+}
+
+.drop

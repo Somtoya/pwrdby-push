@@ -1,0 +1,21 @@
+{
+  "name": "gulpfile.js",
+  "description": "gulp file",
+  "main": "index.js",
+  "authors": [
+    "Somtoya"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sm20030/pwrdbypush",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.5"
+  }
+}
